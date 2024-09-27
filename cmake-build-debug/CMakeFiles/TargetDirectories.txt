@@ -1,0 +1,3 @@
+C:/Users/blake/Documents/Github/it-s-raining-strings-CO84635/cmake-build-debug/CMakeFiles/it_s_raining_strings_CO84635.dir
+C:/Users/blake/Documents/Github/it-s-raining-strings-CO84635/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/blake/Documents/Github/it-s-raining-strings-CO84635/cmake-build-debug/CMakeFiles/rebuild_cache.dir
